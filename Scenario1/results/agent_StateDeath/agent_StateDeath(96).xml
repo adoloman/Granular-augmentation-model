@@ -1,0 +1,26 @@
+<idynomics>
+ <simulation iterate="96" time="96.0" unit="hour">
+<grid resolution="4.0" nI="127" nJ="127" nK="1"/>
+<species name="GDyingC1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="GDyingC2" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="GDyingM1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="GDyingM2" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="Clostridium1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="Clostridium2" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="Methanogen1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="Methanogen2" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="Desulfovibrio" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="GDyingD1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+
+</simulation>
+</idynomics>
