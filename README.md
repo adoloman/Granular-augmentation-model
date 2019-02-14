@@ -10,9 +10,12 @@ Each scenario folder has the following structure:
 - folder "render": contains a video-file of granule formation process. The video is a render of .pov sequence files generated during simulation 
 - file README.md : contains general description of the simulated scenario 
 
-Для воспроизаедения симкляции скопируйте протор соответствуюзего сценария в папку .... idynamics и запустите
+To run any of the simulation protocols on your own machine:  
 
-1. Загрузите и распакуйте модифицированную версию iDynamics [ссылка на репозиторий Амитеша!] на свой комп
-2. Настройте скопированую папку как проект в вашей среде разработки (Eclipse, JetBrains IntelliJI)
-3. Из папки protocol интересующего вас сценария скопируйте xml файл в папку protocols  внутри папки iDynamics
-4. Запустите симуляцию 
+1. Download and unpack a [modified iDynoMICs](https://github.com/amiteshmahajan/A_model_for_Bioaugmented_Anaerobic) version on your machine (preferrably to the root of disk drive);
+2. Import the unpacked folder as a project in your IDE ([Eclipse IDE for Java Developers](https://www.eclipse.org/downloads/packages/release/2018-12/r/eclipse-ide-java-developers), [IntelliJ IDEA](https://www.jetbrains.com/idea/download/));
+3. Navigate to unpacked folder of iDynoMICs and find folder "protocols" in it
+4. Copy the .xml file from "protocol" folder of the "ScenarioX" folder in this repository to previously found "protocols";
+5. Speciffy the path to the copied .xml-file in 'iDynoMICs_folder'\src\SearchEngine\Constants.java
+6. Run the simulation
+
