@@ -1,0 +1,30 @@
+<idynomics>
+ <simulation iterate="816" time="816.0" unit="hour">
+<thickness domain="Granule" unit="um">
+	<mean>0.0</mean>
+	<stddev>0.0</stddev>
+	<max>0.0</max>
+</thickness>
+<bulk name="MyTank">
+<solute name="Attract" unit="g.L-1">0.0</solute>
+<solute name="pressure" unit="g.L-1">0.0</solute>
+<solute name="Cellobiose" unit="g.L-1">1.5000000000000002</solute>
+<solute name="Oleate" unit="g.L-1">1.5000000000000002</solute>
+<solute name="Lactate" unit="g.L-1">0.0</solute>
+<solute name="Methane" unit="g.L-1">0.0</solute>
+<solute name="Acetate" unit="g.L-1">0.0</solute>
+<solute name="Ethanol" unit="g.L-1">0.0</solute>
+<solute name="Hydrogen" unit="g.L-1">0.0</solute>
+<uptake_rate name="Attract" unit="g.L-1.hour-1">0.0</uptake_rate>
+<uptake_rate name="pressure" unit="g.L-1.hour-1">0.0</uptake_rate>
+<uptake_rate name="Cellobiose" unit="g.L-1.hour-1">0.0</uptake_rate>
+<uptake_rate name="Oleate" unit="g.L-1.hour-1">0.0</uptake_rate>
+<uptake_rate name="Lactate" unit="g.L-1.hour-1">0.0</uptake_rate>
+<uptake_rate name="Methane" unit="g.L-1.hour-1">0.0</uptake_rate>
+<uptake_rate name="Acetate" unit="g.L-1.hour-1">0.0</uptake_rate>
+<uptake_rate name="Ethanol" unit="g.L-1.hour-1">0.0</uptake_rate>
+<uptake_rate name="Hydrogen" unit="g.L-1.hour-1">0.0</uptake_rate>
+</bulk>
+
+</simulation>
+</idynomics>

@@ -1,0 +1,30 @@
+<idynomics>
+ <simulation iterate="936" time="936.0" unit="hour">
+<grid resolution="4.0" nI="127" nJ="127" nK="1"/>
+<species name="GDyingC1" header="population,mass,growthRate" >
+0.0,0.0,0.0</species>
+<species name="GDyingC2" header="population,mass,growthRate" >
+1.0,525.376869755689,0.0</species>
+<species name="GDyingM1" header="population,mass,growthRate" >
+1.0,1071.9423969706927,0.0</species>
+<species name="GDyingM2" header="population,mass,growthRate" >
+3.0,3001.810793472546,0.0</species>
+<species name="GDyingO1" header="population,mass,growthRate" >
+0.0,0.0,0.0</species>
+<species name="Clostridium1" header="population,mass,growthRate" >
+81701.0,3.770442235701533E8,3045602.871335036</species>
+<species name="Clostridium2" header="population,mass,growthRate" >
+299.0,198517.67139634246,204.02873630882542</species>
+<species name="Methanogen1" header="population,mass,growthRate" >
+23962.0,1.5888424935963288E8,1732571.8070873157</species>
+<species name="Methanogen2" header="population,mass,growthRate" >
+236.0,699500.3114508827,1377.7961792976698</species>
+<species name="Desulfovibrio" header="population,mass,growthRate" >
+21310.0,9.342444958628443E7,835819.8065840343</species>
+<species name="OleateDegrader" header="population,mass,growthRate" >
+35.0,277561.02728987654,2114.0342954309626</species>
+<species name="GDyingD1" header="population,mass,growthRate" >
+0.0,0.0,0.0</species>
+
+</simulation>
+</idynomics>
