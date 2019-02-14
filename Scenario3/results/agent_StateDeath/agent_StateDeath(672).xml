@@ -1,0 +1,24 @@
+<idynomics>
+ <simulation iterate="672" time="672.0" unit="hour">
+<grid resolution="4.0" nI="127" nJ="127" nK="1"/>
+<species name="GDyingC1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="GDyingC2" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="GDyingM1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="GDyingM2" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="Clostridium1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+5182,85,7,3,486.0,5509.390014879595,0.0,0.0,60.77083023995561,0.40513886826637074,191.3150340522631,118.99015416493285,0.0,1.7096243289536932,1.7096243289536932,1,detachment;
+33571,54,7,3,672.0,3513.3060634261647,0.0,0.0,75.82391319333033,0.0,182.94728443193458,123.31938160239213,0.0,1.3652334587079293,1.3652334587079293,1,detachment;
+</species>
+<species name="Clostridium2" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="Methanogen1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="Methanogen2" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+
+</simulation>
+</idynomics>
