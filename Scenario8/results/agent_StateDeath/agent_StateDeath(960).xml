@@ -1,0 +1,49 @@
+<idynomics>
+ <simulation iterate="960" time="960.0" unit="hour">
+<grid resolution="4.0" nI="127" nJ="127" nK="1"/>
+<species name="GDyingC1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="GDyingC2" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="GDyingM1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="GDyingM2" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="GDyingO1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="Clostridium1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+4245,133,1,1,493.0,3421.673474423222,0.0,0.0,16.192529093623726,0.1079501939574915,258.89392864742416,103.59851995285509,0.0,1.3473121064397056,1.3473121064397056,1,detachment;
+39244,51,3,2,948.0,3759.6176461517002,0.0,0.0,17.796661609453928,0.11864441072969285,262.2267985396058,103.49108600020982,0.0,1.4122798746398384,1.4122798746398384,1,detachment;
+23549,138,15,4,865.0,5246.901927434802,0.0,0.0,24.796278538325776,0.16530852358883852,216.40103769585073,107.98213734677941,0.0,1.6684008560259256,1.6684008560259256,1,detachment;
+12274,11,15,4,740.0,5531.05580075528,0.0,0.0,26.139158334450237,0.1742610555630016,219.25128075006205,107.63636137161923,0.0,1.7129825964282137,1.7129825964282137,1,detachment;
+28200,45,31,5,887.0,4483.2343792524925,0.0,0.0,21.196257489520058,0.14130838326346706,203.1489134902653,111.38493819330958,0.0,1.5422140404415126,1.5422140404415126,1,detachment;
+10817,132,1,1,722.0,4626.418310737481,0.0,0.0,21.830610980181877,0.14553740653454586,209.53401549464684,111.10433500497743,0.0,1.5666478237929005,1.5666478237929005,1,detachment;
+25261,139,15,4,873.0,4979.688139524269,0.0,0.0,23.490991682171614,0.15660661121447744,191.8031826479071,119.91265118570968,0.0,1.6253616306920713,1.6253616306920713,1,detachment;
+6904,78,3,2,622.0,4248.801410923875,0.0,0.0,20.000731888900294,0.13333821259266862,175.84418499695548,127.5291120398642,0.0,1.5013506868559026,1.5013506868559026,1,detachment;
+470,11,3,2,291.0,4437.846256170885,0.0,0.0,20.9560007358417,0.139706671572278,160.51034730763044,135.9504533830853,0.0,1.5343875180959514,1.5343875180959514,1,detachment;
+12008,107,15,4,737.0,4303.940995522907,0.0,0.0,20.250687022904128,0.13500458015269418,159.7235206268106,139.35723519946424,0.0,1.5110613073866694,1.5110613073866694,1,detachment;
+6955,150,7,3,625.0,4487.52630883418,0.0,0.0,21.157477012590604,0.14104984675060403,143.09144719343138,152.9685842903519,0.0,1.5429520668418597,1.5429520668418597,1,detachment;
+20379,93,15,4,851.0,5785.106676903634,0.0,0.0,27.328698981248202,0.18219132654165468,127.71933446518668,170.27300356832316,0.0,1.7518810565454506,1.7518810565454506,1,detachment;
+31940,143,7,3,918.0,3784.213089326166,0.0,0.0,17.833868698538762,0.11889245799025841,123.61842058378011,183.08516245739727,0.0,1.4168919160129057,1.4168919160129057,1,detachment;
+17421,96,15,4,820.0,5911.893778002451,0.0,0.0,27.787861316129582,0.1852524087741972,119.73341158236596,191.17505504450625,0.0,1.770974230528047,1.770974230528047,1,detachment;
+16192,9,7,3,799.0,6083.33450930024,0.0,0.0,28.74111984470825,0.19160746563138834,103.99997173711331,238.94551153442498,0.0,1.7964692163482876,1.7964692163482876,1,detachment;
+3618,44,7,3,449.0,5919.890611012326,0.0,0.0,27.994733460634066,0.1866315564042271,103.71310832447811,260.6921396078156,0.0,1.7721715963611069,1.7721715963611069,1,detachment;
+8595,73,7,3,696.0,6178.740707571218,0.0,0.0,29.229675395894873,0.19486450263929916,103.81047892714084,264.7873827452139,0.0,1.8105016120171098,1.8105016120171098,1,detachment;
+18782,98,15,4,839.0,5866.0040781027055,0.0,0.0,27.76263467876131,0.18508423119174205,103.8183652542138,272.25832977887455,0.0,1.76408745253853,1.76408745253853,1,detachment;
+</species>
+<species name="Clostridium2" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="Methanogen1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="Methanogen2" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="Desulfovibrio" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+17496,1166,3,2,822.0,5504.320840675914,0.6720979171419424,0.0,12.025172384370336,0.08016781589580224,111.71941157826036,210.34674833308904,0.0,1.7089419622049062,1.7089419622049062,1,detachment;
+</species>
+<species name="OleateDegrader" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="GDyingD1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+
+</simulation>
+</idynomics>

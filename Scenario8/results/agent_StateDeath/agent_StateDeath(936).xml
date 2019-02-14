@@ -1,0 +1,41 @@
+<idynomics>
+ <simulation iterate="936" time="936.0" unit="hour">
+<grid resolution="4.0" nI="127" nJ="127" nK="1"/>
+<species name="GDyingC1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="GDyingC2" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="GDyingM1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="GDyingM2" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="GDyingO1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="Clostridium1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+17376,64,15,4,819.0,5443.703369050778,0.0,0.0,25.907674035112557,0.17271782690075038,210.6497749649547,111.96703853504316,0.0,1.6994021241926018,1.6994021241926018,1,detachment;
+21671,115,15,4,857.0,4701.538106064377,0.0,0.0,22.369854830161543,0.14913236553441028,189.56951362073445,119.98490401348144,0.0,1.5793155478785794,1.5793155478785794,1,detachment;
+4007,107,7,3,469.0,4744.172196665196,0.0,0.0,22.52609714128287,0.1501739809418858,191.52430600718463,119.51970394510454,0.0,1.5864600954403822,1.5864600954403822,1,detachment;
+15801,109,7,3,794.0,5953.936515450862,0.0,0.0,28.32786945406332,0.1888524630270888,181.19065568845647,123.75391473366396,0.0,1.7772602617485864,1.7772602617485864,1,detachment;
+17937,25,63,6,829.0,5343.828110557606,0.0,0.0,25.45442192937064,0.16969614619580425,166.7832714224032,131.3198502130317,0.0,1.6837405481072645,1.6837405481072645,1,detachment;
+7549,53,15,4,660.0,6064.167186171287,0.0,0.0,28.871761280468316,0.19247840853645545,159.75555626617702,137.50500252443774,0.0,1.7936368328973857,1.7936368328973857,1,detachment;
+17083,9,15,4,814.0,6123.29320584597,0.0,0.0,29.120870248324294,0.19413913498882862,152.93982954459665,143.59790126180437,0.0,1.802359659621555,1.802359659621555,1,detachment;
+729,66,7,3,357.0,4685.9101712822385,0.0,0.0,22.306515851590284,0.14871010567726856,135.41847602203524,162.1734240388168,0.0,1.576688536856809,1.576688536856809,1,detachment;
+20298,40,15,4,850.0,5060.598366641664,0.0,0.0,24.071016202829377,0.16047344135219585,127.41838830925145,172.743808401944,0.0,1.6385129046767244,1.6385129046767244,1,detachment;
+5320,106,15,4,574.0,5070.254777089684,0.0,0.0,24.116947453546214,0.16077964969030809,127.39066778853403,175.19351695884683,0.0,1.6400754286506887,1.6400754286506887,1,detachment;
+</species>
+<species name="Clostridium2" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="Methanogen1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="Methanogen2" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="Desulfovibrio" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+10533,1119,3,2,719.0,5886.830001426481,0.1466007277396521,0.0,8.026061611725664,0.05350707741150443,139.6583056696621,157.53487858949978,0.0,1.767238179691386,1.767238179691386,1,detachment;
+</species>
+<species name="OleateDegrader" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="GDyingD1" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+
+</simulation>
+</idynomics>
