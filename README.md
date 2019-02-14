@@ -1,16 +1,14 @@
 # Granular-augmentation-model
 
+This repository contains protocols for simulating anaerobic granule formation and augmentation of the granule with new bacterial species. Results and conditions for each simulation scenario are provided. 
 
-В этом репозитории собраны протоколы симуляции формирования гранц=ул при определенных ксловиях и результаты таких симуляций
+Simulations performed on a modified iDynoMICs version (https://github.com/amiteshmahajan/A_model_for_Bioaugmented_Anaerobic)
 
-Симуляции выполнены с помошью модифицированнім iDynomics[repository]
-
-Каждый сценарий представлен в отдельной папке : ScenarioX
-Каждая папка сенария представленна следуйщей структрурой:
-- папка protocol: содеждит xml файл с описание симуляции для iDynamics
-- папка results
-- папка render
-- файл README.md : содержит словестное описание данной симуляции
+Each scenario folder has the following structure: 
+- folder "protocol": contains simulation protocol as an .xml file with parameters for iDynoMICs
+- folder "results": contains simulation output files and folders 
+- folder "render": contains a video-file of granule formation process. The video is a render of .pov sequence files generated during simulation 
+- file README.md : contains general description of the simulated scenario 
 
 Для воспроизаедения симкляции скопируйте протор соответствуюзего сценария в папку .... idynamics и запустите
 
