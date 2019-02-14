@@ -1,0 +1,26 @@
+<idynomics>
+ <simulation iterate="480" time="480.0" unit="hour">
+<grid resolution="4.0" nI="127" nJ="127" nK="1"/>
+<species name="GDyingC1" header="population,mass,growthRate" >
+0.0,0.0,0.0</species>
+<species name="GDyingC2" header="population,mass,growthRate" >
+300.0,149971.7839153705,0.0</species>
+<species name="GDyingM1" header="population,mass,growthRate" >
+13.0,13442.636293657388,0.0</species>
+<species name="GDyingM2" header="population,mass,growthRate" >
+37.0,37306.34990003357,0.0</species>
+<species name="Clostridium1" header="population,mass,growthRate" >
+1170.0,4728692.61157692,40640.89405951273</species>
+<species name="Clostridium2" header="population,mass,growthRate" >
+0.0,0.0,0.0</species>
+<species name="Methanogen1" header="population,mass,growthRate" >
+237.0,584068.2233714077,3266.413066808929</species>
+<species name="Methanogen2" header="population,mass,growthRate" >
+213.0,246413.51818406142,224.29687323796963</species>
+<species name="Desulfovibrio" header="population,mass,growthRate" >
+250.0,963344.9090360199,7989.549597514614</species>
+<species name="GDyingD1" header="population,mass,growthRate" >
+0.0,0.0,0.0</species>
+
+</simulation>
+</idynomics>
