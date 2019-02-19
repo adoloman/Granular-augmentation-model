@@ -8,7 +8,6 @@ Microorganims involved are:
 - **Desulfovibrio** - converts ethanol into acetate and hydrogen;
 - **Methanogen1** - converts acetate into methane;
 - **Methanogen2** - converts hydrogen into methane;
-- **OleateDegrader** - converts oleate into acetate.
 
 To restart the previous run (basic Scenario 3 ran until 408 hrs), set the `restartPreviousRun` to `true`:
 > ` <simulator> `
