@@ -14,6 +14,7 @@ To run any of the simulation protocols on your own machine:
 
 1. Download and unpack a [modified iDynoMICs](https://github.com/adoloman/Modified-iDynoMICs-for-augmentation-model) version on your machine (preferrably to the root of disk drive);
 2. Import the unpacked folder as a project in your IDE ([Eclipse IDE for Java Developers](https://www.eclipse.org/downloads/packages/release/2018-12/r/eclipse-ide-java-developers), [IntelliJ IDEA](https://www.jetbrains.com/idea/download/));
+*For IntelliJ IDEA, follow installation instructions from this [README](https://github.com/adoloman/Modified-iDynoMICs-for-augmentation-model/blob/master/IntelliJ_instructions.md) file;
 3. Navigate to unpacked folder of iDynoMICs and find folder "protocols" in it
 4. Copy the .xml file from "protocol" folder of the "ScenarioX" folder in this repository to previously found "protocols";
 5. Speciffy the path to the copied .xml-file in 'iDynoMICs_folder'\src\SearchEngine\Constants.java
