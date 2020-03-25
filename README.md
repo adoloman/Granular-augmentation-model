@@ -2,7 +2,7 @@
 
 This repository contains protocols for simulating anaerobic granule formation and augmentation of the granule with new bacterial species. Results and conditions for each simulation scenario are provided. 
 
-Details of the research behind are available at: **CITATION**
+Details of the research behind are currently arranged into a manuscript: "Doloman A., Mahajan A., Pererva Y., Flann N.S, Miller C.D. (2020) A Model for Bioaugmented Anaerobic Granulation. Frontiers in Microbiology."
 
 Simulations performed on a [modified iDynoMICs](https://github.com/adoloman/Modified-iDynoMICs-for-augmentation-model) version 
 
